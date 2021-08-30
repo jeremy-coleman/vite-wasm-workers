@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  margin:0;
+  padding: 0;
+}
+
+.panel { 
+  width: 1000px;
+}
+
+img { 
+  width: 1800px;
+}
+.drawer { 
+  background-color: "#1769aa";
+}
+.drawerOptions { 
+  color: #0c3252;
+  width:300px;
+  font-size: 32px;
+  padding: 5px;
+}

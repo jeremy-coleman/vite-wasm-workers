@@ -1,0 +1,88 @@
+{
+    "material-icon-theme.showWelcomeMessage": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "ai.azureml.experimental: V2Config": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.acceptSuggestionOnEnter": "off",
+    "explorer.confirmDelete": false,
+    "explorer.compactFolders": false,
+    "git.decorations.enabled": false,
+    "npm.enableRunFromFolder": true,
+    "material-icon-theme.hidesExplorerArrows": true,
+    "editor.renderIndentGuides": false,
+    "workbench.tree.renderIndentGuides": "none",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.occurrencesHighlight": false,
+    "git.allowForcePush": true,
+    "git.allowNoVerifyCommit": true,
+    "git.countBadge": "off",
+    "git.ignoreLimitWarning": true,
+    "git.ignoreLegacyWarning": true,
+    "scm.countBadge": "off",
+    "scm.diffDecorations": "none",
+    "editor.semanticHighlighting.enabled": false,
+    "explorer.confirmDragAndDrop": false,
+    "telemetry.enableTelemetry": false,
+    "problems.decorations.enabled": false,
+    "workbench.editor.closeOnFileDelete": true,
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    
+    "[typescript]": {
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true
+        }
+    },
+    "[typescriptreact]": {
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true
+        }
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "typescript.updateImportsOnFileMove.enabled": "never",
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "workbench.editor.untitled.hint": "hidden",
+    "vsicons.projectDetection.disableDetect": true,
+    "cmake.configureOnOpen": true,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "files.associations": {
+        "*.html": "html",
+        "*.zig": "zig"
+    },
+    "debug.javascript.codelens.npmScripts": "never",
+    "zigLanguageClient.path": "C:\\Users\\jerem\\Desktop\\bin\\zls\\zls.exe",
+    "[zig]": {
+        "editor.defaultFormatter": "AugusteRame.zls-vscode"
+    },
+    "material-icon-theme.folders.theme": "classic",
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescriptreact]": {
+
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "typescript.extension.sortImports.enableJavascript": true,
+    "prettier.endOfLine": "auto",
+    "prettier.quoteProps": "consistent",
+    "prettier.semi": false,
+    "prettier.trailingComma": "none",
+    "vscOrganizeImports.formatOnSave": false,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    }
+}
